@@ -1,7 +1,7 @@
 # [Video Link](https://youtu.be/n60Dn0UsbEk)
 
 ### Easy
-1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) - [solution](build_array_from_permutation.java)
+1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) - [solution](arrays/build_array_from_permutation.java)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
